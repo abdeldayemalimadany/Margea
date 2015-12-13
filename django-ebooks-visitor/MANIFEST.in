@@ -1,0 +1,7 @@
+include LICENSE
+include README.rst
+recursive-include visitor/backend *
+recursive-include visitor/static *
+recursive-include visitor/templates *
+recursive-include docs *
+recursive-include test *
